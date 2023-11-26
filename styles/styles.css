@@ -1,0 +1,21 @@
+
+.aside{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 1px;
+    border: 1px solid black;
+}
+.section{
+    width: 70%;
+    position: relative;
+    top: 0;
+    left: 20%;
+}
